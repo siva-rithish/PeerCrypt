@@ -91,7 +91,7 @@ async def send_message(websocket, message_text, user_name, page, chat):
 
 def main(page: ft.Page):
     page.horizontal_alignment = ft.CrossAxisAlignment.STRETCH
-    page.title = "P2Peek"
+    page.title = "PeerCrypt"
     page.theme_mode = ft.ThemeMode.LIGHT
 
     websocket_lock = threading.Lock()

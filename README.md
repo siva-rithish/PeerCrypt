@@ -1,4 +1,4 @@
-# P2Peek
+# PeerCrypt
 
 Open your terminal and enter,
 

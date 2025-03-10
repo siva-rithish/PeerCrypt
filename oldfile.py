@@ -61,7 +61,7 @@ class ChatMessage(Row):
 
 def main(page: ft.Page):
     page.horizontal_alignment = ft.CrossAxisAlignment.STRETCH
-    page.title = "P2Peek"
+    page.title = "PeerCrypt"
     page.theme_mode = ft.ThemeMode.LIGHT
 
     def join_chat_click(e: ControlEvent):
