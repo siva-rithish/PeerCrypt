@@ -2,7 +2,9 @@
 
 Open your terminal and enter,
 
-`pip3 install -r requirement.txt`
+`pip3 install -r requirement.txt` for Mac
+
+`pip install -r requirement.txt` for Windows
 
 Then start the **server**
 
