@@ -16,3 +16,13 @@ Start a new **client**
 
 Once the client has started, enter the _Username_, _Room Id_ and the _Pass Code_
 Then `Continue`
+
+If any error occurs update flet **flet**
+
+`pip install flet`
+
+`pip install --upgrade flet`
+
+To build apk **apk**
+
+`flet build apk`
